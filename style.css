@@ -48,6 +48,9 @@ span.icon {
     .plaza{
         margin-top: -31x;
     }
+    a.plaza {
+        margin-top: -31px;
+    }
     .floatbtn {
         float: left;
     }
@@ -73,6 +76,21 @@ span.icon {
     position: fixed;
 }
 a.plaza {
+    background-color: #94c341;
+    border: 2px solid #94c341;
+    border-radius: 50px;
+    border-color: #94c341;
+    color: #ffffff;
+    float: right;
+    font-size: 13px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 24px;
+    padding: 6px 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+a.slaza {
     background-color: #94c341;
     border: 2px solid #94c341;
     border-radius: 50px;
